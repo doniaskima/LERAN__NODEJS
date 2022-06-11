@@ -1,0 +1,15 @@
+status codes describe the type of response sent to the browser and
+
+
+200 -ok
+301-ressource moved 
+404 not found 
+500 -internal server error
+
+
+
+100 Range -informational responses 
+200 Range -sucess codes 
+300 Range -codes for reirects 
+400Range -user or client error codes 
+5OO RAnge -server error codes
